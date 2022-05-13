@@ -1,3 +1,6 @@
+![nextjs-starter](https://user-images.githubusercontent.com/22136575/168194787-acc7fcd5-1193-4189-ab44-5a1c0900e1d2.png)
+
+
 This is an opinionated [Next.js](https://nextjs.org/) project template bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Pre-installed packages:
